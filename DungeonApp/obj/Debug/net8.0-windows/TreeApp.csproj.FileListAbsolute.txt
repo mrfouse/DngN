@@ -1,0 +1,16 @@
+C:\Users\Azerty\Desktop\tree\TreeApp\TreeApp\bin\Debug\net8.0-windows\TreeApp.exe
+C:\Users\Azerty\Desktop\tree\TreeApp\TreeApp\bin\Debug\net8.0-windows\TreeApp.deps.json
+C:\Users\Azerty\Desktop\tree\TreeApp\TreeApp\bin\Debug\net8.0-windows\TreeApp.runtimeconfig.json
+C:\Users\Azerty\Desktop\tree\TreeApp\TreeApp\bin\Debug\net8.0-windows\TreeApp.dll
+C:\Users\Azerty\Desktop\tree\TreeApp\TreeApp\bin\Debug\net8.0-windows\TreeApp.pdb
+C:\Users\Azerty\Desktop\tree\TreeApp\TreeApp\obj\Debug\net8.0-windows\TreeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Azerty\Desktop\tree\TreeApp\TreeApp\obj\Debug\net8.0-windows\TreeApp.AssemblyInfoInputs.cache
+C:\Users\Azerty\Desktop\tree\TreeApp\TreeApp\obj\Debug\net8.0-windows\TreeApp.AssemblyInfo.cs
+C:\Users\Azerty\Desktop\tree\TreeApp\TreeApp\obj\Debug\net8.0-windows\TreeApp.csproj.CoreCompileInputs.cache
+C:\Users\Azerty\Desktop\tree\TreeApp\TreeApp\obj\Debug\net8.0-windows\TreeApp.dll
+C:\Users\Azerty\Desktop\tree\TreeApp\TreeApp\obj\Debug\net8.0-windows\refint\TreeApp.dll
+C:\Users\Azerty\Desktop\tree\TreeApp\TreeApp\obj\Debug\net8.0-windows\TreeApp.pdb
+C:\Users\Azerty\Desktop\tree\TreeApp\TreeApp\obj\Debug\net8.0-windows\TreeApp.genruntimeconfig.cache
+C:\Users\Azerty\Desktop\tree\TreeApp\TreeApp\obj\Debug\net8.0-windows\ref\TreeApp.dll
+C:\Users\Azerty\Desktop\tree\TreeApp\TreeApp\obj\Debug\net8.0-windows\TreeApp.AddTreeForm.resources
+C:\Users\Azerty\Desktop\tree\TreeApp\TreeApp\obj\Debug\net8.0-windows\TreeApp.csproj.GenerateResource.cache
